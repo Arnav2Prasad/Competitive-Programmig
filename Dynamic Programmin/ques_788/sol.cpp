@@ -53,7 +53,7 @@ public:
 
             }
 
-            if (isValid && isDifferent && rotatedStr!= str) {
+            if (isValid && isDifferent) {
 
                 count++;
 
